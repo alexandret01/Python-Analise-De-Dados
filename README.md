@@ -1,2 +1,6 @@
 # Python-Analise-De-Dados
-Python para analise de dados
+## Python para analise de dados
+
+* NumPy
+* Pandas
+* Matplotlib
