@@ -4,3 +4,6 @@
 * NumPy
 * Pandas
 * Matplotlib
+* Scikit-Learn
+* TensorFlow
+* Machine-Learning
